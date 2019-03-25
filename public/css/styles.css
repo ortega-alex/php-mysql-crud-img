@@ -1,0 +1,10 @@
+#recorte { 
+	position: absolute;
+	/*top: 31px;
+	left: 380px;*/
+	border: solid red 1px;
+	border-style: dashed; 
+	border-width: 1px; 
+	height: 210px !important;
+	width: 210px !important;
+}
